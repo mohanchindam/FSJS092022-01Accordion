@@ -10,7 +10,7 @@
 ![Accordion Preview](./FAQ1.png)
 
 Project is deployed on **Netlify**:
-- You can preview Project here, [**Accordion**]()
+- You can preview Project here, [**Accordion**](https://fsjs092022-01accordion.netlify.app/)
 
 
 
